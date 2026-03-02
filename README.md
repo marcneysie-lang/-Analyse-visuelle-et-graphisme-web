@@ -1,7 +1,7 @@
 Cette visualisation ne se contente pas d'aligner des couleurs, elle raconte une marche en appliquant une macroanalyse de 71 photos prises lors de la balade à Aubervilliers. 
 
 J'ai transformé une expérience géographique en une signature colorimétrique continue.
-J'ai utilisé l'outil de macroanalyse JavaScript qui a permis d'extraire la moyenne des pixels de chaque cliché. Cette méthode permet de lisser les détails anecdotiques pour ne conserver que l'ambiance lumineuse et chromatique dominante de chaque étape du trajet. 
+J'ai utilisé l'outil de macroanalyse JavaScript qui a permis d'extraire la moyenne des pixels de chaque cliché. Cette méthode permet de lisser les détails anecdotiques pour ne conserver que l'ambiance lumineuse et chromatique dominante de chaque étape du trajet. Puis, j'ai utilisé Canva pour faire les annotations. 
 
 La visualisation se parcourt de gauche à droite, comme on remonte le fil du temps et des rues :
 Le voyage débute au Campus Condorcet. Les premières bandes révèlent des tonalités de vert tendre et de gris clair, écho fidèle de l'architecture moderne entrelacée d'espaces végétalisés.
